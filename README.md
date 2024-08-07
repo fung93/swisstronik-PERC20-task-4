@@ -1,6 +1,6 @@
-# SWISSTRONIK Technical Task 3
+# SWISSTRONIK Technical Task 4
 
-Steps to mint ERC-721 Token
+Steps to mint PERC-20 Token
 
 1. Clone repository
 ```shell
